@@ -1,13 +1,13 @@
-# Olá! eu sou o Alan 👋🏻
+# Olá! eu sou o Dario Renato 👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
 ### Meu nome é Dario Renato, sou desenvolvedor FullStack Jr, estou ingressando na área de tecnologia.
-### Atualmente especializando em áreas de tecnologia na DIO.
+### Atualmente curso especializações na DIO.
 
 
 ## Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/alanmachado-dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/machado.ft/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/dariorenato/) 
 
 ## Linguagens
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
@@ -26,6 +26,4 @@
 ## GitHub Stats
 
 ![Alan Machado's GitHub stats](https://github-readme-stats.vercel.app/api?username=1amAlan&theme=tokyonight&_icons=true&hide_title=true)
-
-
 
